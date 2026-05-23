@@ -97,29 +97,29 @@
 
 `21 Days` (JP/CN/HK)  
 💡 `BIOHAZARD 7 resident evil グロテスクVer.`  
-❌ `Dark Elf`  
+❌ `Dark Elf`(絕版)  
 ❌ `DiRT 4`  
-❌ `Elise the Devil`  
-❌ `Eventide Night`  
+❌ `Elise the Devil`(絕版)  
+❌ `Eventide Night`(絕版)  
 `How to shoot a criminal` (JP/CN/HK)  
-❌ `Jettomero`  
-❌ `Killing Time`  
-❌ `King Exit`  
+❌ `Jettomero`(絕版)  
+❌ `Killing Time`(絕版)  
+❌ `King Exit`(絕版)  
 `Lit the Torch` (JP/CN/HK)  
 `Maggie's Apartment` (CN/JP/HK)  
-❌ `Minecraft: Story Mode - Season Two`  
-❌ `Otaku's Fantasy`  
+❌ `Minecraft: Story Mode - Season Two`(太貴)  
+❌ `Otaku's Fantasy`(絕版)  
 💡 `PSYCHO-PASS`  
-❌ `Starlight of Aeons`  
-❌ `Strike Vector EX`  
-❌ `Succubus Rem`  
+❌ `Starlight of Aeons`(絕版)  
+❌ `Strike Vector EX`(絕版)  
+❌ `Succubus Rem`(絕版)  
 `Sword and Fairy 4` (CN)  
 `Sword and Fairy 5` (CN)  
 `Sword and Fairy 5 Prequel` (CN)  
-❌ `Taima Miko Yuugi`  
-❌ `Tales of Winds: Tomb of the Sol Empire`  
-❌ `The Heiress`  
-❌ `Village of Adventurers 2`  
+❌ `Taima Miko Yuugi`(絕版)  
+❌ `Tales of Winds: Tomb of the Sol Empire`(絕版)  
+❌ `The Heiress`(絕版)  
+❌ `Village of Adventurers 2`(絕版)  
 `Virtual Temple: Order of the Golden Dawn` (JP/CN/HK)
 
 # 2016
