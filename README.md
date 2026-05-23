@@ -137,28 +137,28 @@
 # 2015
 
 `Blues and Bullets` (CN/JP/HK)  
-❌ `Minecraft: Story Mode - A Telltale Games Series`
+❌ `Minecraft: Story Mode - A Telltale Games Series` (太貴)  
 `Nandeyanen!? - The 1st Sûtra` (JP/CN/HK)  
-❌ `Saint Seiya: Soldiers' Soul`  
-❌ `TRANSFORMERS: Devastation`
+❌ `Saint Seiya: Soldiers' Soul` (太貴)  
+❌ `TRANSFORMERS: Devastation` (太貴)
 
 # 2014
 
-❌ `Betrayer`  
-❌ `Crimzon Clover WORLD IGNITION`  
+❌ `Betrayer` ✅  
+❌ `Crimzon Clover WORLD IGNITION` ✅  
 `Devil's Dare` (CN/JP/HK)  
-❌ `Final Dusk`  
+❌ `Final Dusk` ✅  
 💡 `NOBUNAGA'S AMBITION: Souzou with Power Up Kit`
 
 # 2013
 
-❌ `Poker Night 2`
+❌ `Poker Night 2` (太貴)
 
 # 2012
 
 `Dishonored` (CN/JP/HK)  
-❌ `eXceed 3rd - Jade Penetrate Black Package`  
-❌ `Spec Ops: The Line`
+❌ `The eXceed Collection: Aural Brutality Edition` ✅  
+❌ `Spec Ops: The Line` ✅
 
 # 2011
 
