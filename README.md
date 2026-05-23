@@ -10,16 +10,16 @@
 `Kemono_Teatime` (CN/HK/JP)  
 💡 `Maimaimaigoen`  
 💡 `Project:;COLD case.mirage`  
-❌ `SteamDolls - Order Of Chaos`  
+❌ `SteamDolls - Order Of Chaos`(絕版)  
 `VARLET` (JP/HK/CN)  
 `Venus Vacation PRISM - DEAD OR ALIVE Xtreme -` (CN/JP/HK)  
 💡 `Winning Post 10 2025`
 
 # 2024
 
-❌ `Akari and the Abyss`  
+❌ `Akari and the Abyss`(絕版)  
 `BEYBLADE X XONE` (JP/HK/CN)  
-❌ `QUESTER | OSAKA`  
+❌ `QUESTER | OSAKA`(絕版)  
 💡 `Winning Post 10 2024`  
 `ゆらぎ荘の幽奈さん 湯けむり迷宮 極み` (CN/JP/HK)
 
@@ -28,10 +28,10 @@
 💡 `A-Train: All Aboard! Tourism - Vistas Abound DLC`  
 `BUCCANYAR` (HK/CN/JP)  
 `LogiKing` (CN/JP/HK)  
-❌ `My Gaming Club`  
-❌ `QUESTER`  
+❌ `My Gaming Club`(絕版)  
+❌ `QUESTER`(絕版)  
 `SD Shin Kamen Rider Rumble` (JP/HK)  
-❌ `Undaunted: Normandy`
+❌ `Undaunted: Normandy`(絕版)
 
 # 2022
 
