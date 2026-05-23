@@ -88,9 +88,9 @@
 
 💡 `BIOHAZARD RE:2 Z Version`  
 💡 `ELSWORD JAPAN`  
-❌ `Fission Superstar X`  
-❌ `REMOTE LIFE`  
-❌ `Stranger Things 3: The Game`  
+❌ `Fission Superstar X`(絕版)  
+❌ `REMOTE LIFE`(絕版)  
+❌ `Stranger Things 3: The Game`(太貴)  
 `SUPER ROBOT WARS V` (HK/JP)
 
 # 2017
