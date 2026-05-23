@@ -131,7 +131,7 @@
 `Melting Hearts: Our Love Will Grow 2` (JP)  
 ❌ `Super Star`(太貴)  
 `The Cube Hotel（Ning's Wing 2）` (CN/JP/HK)  
-❌ `The Political Machine 2016`  
+❌ `The Political Machine 2016`✅  
 `Vision of Aurora Borealis` (JP/CN/HK)
 
 # 2015
