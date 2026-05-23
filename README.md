@@ -71,17 +71,17 @@
 ❌ `HITOTSU NO MORI`(絕版)  
 ❌ `Mokoko`(絕版)  
 ❌ `Samurai Aces`  
-❌ `Samurai Aces III: Sengoku Cannon`  
+❌ `Samurai Aces III: Sengoku Cannon`(絕版)  
 💡 `Sea Salt`  
 ❌ `STRIKERS 1945`  
 ❌ `STRIKERS 1945 II`  
 ❌ `STRIKERS 1945 III`  
 `SUPER ROBOT WARS X` (CN/HK/JP)  
 ❌ `TENGAI`  
-❌ `ZERO GUNNER 2-`  
+❌ `ZERO GUNNER 2-`(絕版)  
 💡 `ヴァルキリーコネクト`  
-❌ `ココロクローバー パート１/Kokoro Clover Part1`  
-❌ `ココロクローバー パート2/Kokoro Clover Part2`  
+❌ `ココロクローバー パート１/Kokoro Clover Part1`(絕版)  
+❌ `ココロクローバー パート2/Kokoro Clover Part2`(絕版)  
 `牛顿与苹果树` (CN/HK)
 
 # 2019
