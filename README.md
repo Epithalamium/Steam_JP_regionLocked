@@ -47,17 +47,17 @@
 💡 `Ciel Nosurge -Ushinawareta Hoshi e Sasagu Uta- DX`  
 ❌ `Deep Insanity ASYLUM`(不可用)  
 💡 `Kotoba no Puzzle: Mojipittan Encore`  
-❌ `Retro Classix: Bad Dudes vs DragonNinja`  
-❌ `Retro Classix: BreakThru`  
-❌ `Retro Classix: Express Raider`  
-❌ `Retro Classix: Gate of Doom`  
-❌ `Retro Classix: Heavy Barrel`  
-❌ `Retro Classix: Joe & Mac - Caveman Ninja`  
-❌ `Retro Classix: Joe & Mac Returns`  
-❌ `Retro Classix: Night Slashers`  
-❌ `Retro Classix: SRD - Super Real Darwin`  
-❌ `Retro Classix: Two Crude`  
-❌ `Retro Classix: Wizard Fire`  
+❌ `Retro Classix: Bad Dudes vs DragonNinja`(太貴)  
+❌ `Retro Classix: BreakThru`(太貴)  
+❌ `Retro Classix: Express Raider`(太貴)  
+❌ `Retro Classix: Gate of Doom`(太貴)  
+❌ `Retro Classix: Heavy Barrel`(太貴)  
+❌ `Retro Classix: Joe & Mac - Caveman Ninja`(太貴)  
+❌ `Retro Classix: Joe & Mac Returns`(太貴)  
+❌ `Retro Classix: Night Slashers`(太貴)  
+❌ `Retro Classix: SRD - Super Real Darwin`(太貴)  
+❌ `Retro Classix: Two Crude`(太貴)  
+❌ `Retro Classix: Wizard Fire`(太貴)  
 `THE IDOLM@STER STARLIT SEASON` (CN/HK/JP)  
 `The List` (JP)  
 `Uncharted Waters IV HD Version` (JP/CN/HK)
@@ -66,10 +66,10 @@
 
 💡 `BIOHAZARD RE:3 Z Version`  
 ❌ `G.I. Joe: Operation Blackout`  
-❌ `GUNBIRD`  
-❌ `GUNBIRD 2`  
-❌ `HITOTSU NO MORI`  
-❌ `Mokoko`  
+❌ `GUNBIRD`(絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
+❌ `GUNBIRD 2`(絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
+❌ `HITOTSU NO MORI`(絕版)  
+❌ `Mokoko`(絕版)  
 ❌ `Samurai Aces`  
 ❌ `Samurai Aces III: Sengoku Cannon`  
 💡 `Sea Salt`  
