@@ -45,7 +45,7 @@
 💡 `BIOHAZARD VILLAGE Z Version`  
 ❌ `Café International`  
 💡 `Ciel Nosurge -Ushinawareta Hoshi e Sasagu Uta- DX`  
-💡 `Deep Insanity ASYLUM`  
+❌ `Deep Insanity ASYLUM`(不可用)  
 💡 `Kotoba no Puzzle: Mojipittan Encore`  
 ❌ `Retro Classix: Bad Dudes vs DragonNinja`  
 ❌ `Retro Classix: BreakThru`  
