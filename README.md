@@ -43,7 +43,7 @@
 
 💡 `Ar nosurge: Ode to an Unborn Star Deluxe`  
 💡 `BIOHAZARD VILLAGE Z Version`  
-❌ `Café International`  
+❌ `Café International`(絕版)  
 💡 `Ciel Nosurge -Ushinawareta Hoshi e Sasagu Uta- DX`  
 ❌ `Deep Insanity ASYLUM`(不可用)  
 💡 `Kotoba no Puzzle: Mojipittan Encore`  
