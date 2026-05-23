@@ -65,7 +65,7 @@
 # 2020
 
 💡 `BIOHAZARD RE:3 Z Version`  
-❌ `G.I. Joe: Operation Blackout`  
+❌ `G.I. Joe: Operation Blackout` (沒興趣)  
 ❌ `GUNBIRD` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
 ❌ `GUNBIRD 2` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
 ❌ `HITOTSU NO MORI` (絕版)  
