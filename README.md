@@ -1,5 +1,3 @@
-# Steam 鎖日區遊戲名單
-
 > ()按低價區從左至右
 
 ---
@@ -127,7 +125,7 @@
 `Buried: An Interactive Story` (JP/CN/HK)  
 ❌ `Campus Notes - forget me not.` (絕版)  
 `Don't Die Dateless, Dummy!` (JP/CN/HK)  
-❌ `Gochi-Show!`  
+❌ `Gochi-Show!` ✅  
 `Melting Hearts: Our Love Will Grow 2` (JP)  
 ❌ `Super Star` (太貴)  
 `The Cube Hotel（Ning's Wing 2）` (CN/JP/HK)  
