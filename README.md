@@ -70,14 +70,14 @@
 ❌ `GUNBIRD 2` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
 ❌ `HITOTSU NO MORI` (絕版)  
 ❌ `Mokoko` (絕版)  
-❌ `Samurai Aces`  
+❌ `Samurai Aces` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
 ❌ `Samurai Aces III: Sengoku Cannon` (絕版)  
 💡 `Sea Salt`  
-❌ `STRIKERS 1945`  
-❌ `STRIKERS 1945 II`  
-❌ `STRIKERS 1945 III`  
+❌ `STRIKERS 1945` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
+❌ `STRIKERS 1945 II` (絕版)  
+❌ `STRIKERS 1945 III` (絕版)  
 `SUPER ROBOT WARS X` (CN/HK/JP)  
-❌ `TENGAI`  
+❌ `TENGAI` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
 ❌ `ZERO GUNNER 2-` (絕版)  
 💡 `ヴァルキリーコネクト`  
 ❌ `ココロクローバー パート１/Kokoro Clover Part1` (絕版)  
