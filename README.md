@@ -160,5 +160,5 @@
 
 # 2011
 
-❌ `Gundemonium Recollection`  
-❌ `Hitogata Happa`
+❌ `Gundemonium Recollection` ✅  
+❌ `Hitogata Happa` ✅
