@@ -109,7 +109,7 @@
 ❌ `Otaku's Fantasy` (絕版)  
 💡 `PSYCHO-PASS`  
 ❌ `Starlight of Aeons` (絕版)  
-❌ `Strike Vector EX` (絕版)  
+❌ `Strike Vector EX` (伺服器已關閉)  
 ❌ `Succubus Rem` (絕版)  
 `Sword and Fairy 4` (CN)  
 `Sword and Fairy 5` (CN)  
