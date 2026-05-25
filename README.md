@@ -162,3 +162,9 @@
 
 ❌ `Gundemonium Recollection` ✅  
 ❌ `Hitogata Happa` ✅
+
+# 2010
+
+`Fallout: New Vegas-ROW` (CN/JP/HK)  
+❌ `Back to the Future: The Game`(不感興趣)  
+❌ `Battlefield: Bad Company™ 2`
