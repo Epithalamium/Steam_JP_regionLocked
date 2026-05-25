@@ -168,3 +168,17 @@
 `Fallout: New Vegas-ROW` (CN/JP/HK)  
 ❌ `Back to the Future: The Game`(不感興趣)  
 ❌ `Battlefield: Bad Company™ 2`
+
+# Discount Strategies by Publisher
+
+- Ubisoft: -85% ± 0.05
+- EA: -90% ± 0.05
+- Sony: -50% ± 0.1
+- Bandai: -80%
+- Square Enix: -60% for JRPG, -80% for others
+- SEGA: -65% ± 0.05
+- Capcom: -50% for new games, -75% for old games
+- 2K: Anytime
+- Activision: -66%
+- Koei Tecmo: -60% ± 0.05
+- Konami: Buy at historical low; may increase permanently afterwards
