@@ -72,8 +72,8 @@
 ❌ `Samurai Aces III: Sengoku Cannon` (絕版)  
 💡 `Sea Salt`  
 ❌ `STRIKERS 1945` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
-❌ `STRIKERS 1945 II` (絕版)  
-❌ `STRIKERS 1945 III` (絕版)  
+❌ `STRIKERS 1945 II` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
+❌ `STRIKERS 1945 III` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
 `SUPER ROBOT WARS X` (CN/HK/JP)  
 ❌ `TENGAI` (絕版,目前的三方網站都是挂老版圖賣新版key欺詐)  
 ❌ `ZERO GUNNER 2-` (絕版)  
